@@ -11,10 +11,10 @@ This isn't a set tutorial for linux operating systems as this mainly depends on 
 **You will need xclip for this to work**  
 
 ### MacOS
-*todo*
+[Go to the MacOS Wiki Page](https://github.com/Isaac-Duarte/ShortUrl/wiki/MacOS-Setup)
 
 ### Windows
-*todo*
+Currently no support for Windows
 
 # API Setup
 In order to run this api you need to have [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0) installed. (Windows, MacOS, Linux)
