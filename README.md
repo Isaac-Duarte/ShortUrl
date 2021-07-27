@@ -1,15 +1,15 @@
 # ShortUrl
-A simple asp.net 5 application that allows a client to post to a domain returning a shortened url that redirects to the given url.
+A simple asp.net 5 application that allows a client to post to a domain returning a shortened url that redirects to the given url. The fozie.net endpoint is avalible for public use!**
 
 # Client Setup
 
-## Linux
+### Linux
 This isn't a set tutorial for linux operating systems as this mainly depends on what desktop enviorment you are using. However, simply make the url-shortener.bash script executable and bind a key to it.
 
-## MacOS
+### MacOS
 *todo*
 
-## Windows
+### Windows
 *todo*
 
 # API Setup
@@ -27,7 +27,7 @@ dotnet run or bin/Debug/net5.0/ShortUrl
 * The appsettings.json allows to change the database connection string.
 * The `Urls` part of the configuration is for binding to domains/ip addresses.
  
-## *Note*
+### *Note*
 By default only SQLite will work, however if you want to use MySQL, Postgree, etc add the proper nuget packages. [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 
 
