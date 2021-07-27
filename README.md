@@ -1,10 +1,14 @@
 # ShortUrl
 A simple asp.net 5 application that allows a client to post to a domain returning a shortened url that redirects to the given url. The fozie.net endpoint is avalible for public use!**
 
+The idea is to be able to copy urls and shorten them quickly through keyboard bindings. The current bash script will set your clipboard content to the shorten url
+
 # Client Setup
 
 ### Linux
 This isn't a set tutorial for linux operating systems as this mainly depends on what desktop enviorment you are using. However, simply make the url-shortener.bash script executable and bind a key to it.
+
+**You will need xclip for this to work**  
 
 ### MacOS
 *todo*
