@@ -24,7 +24,7 @@ In order to run this api you need to have [.NET 5](https://dotnet.microsoft.com/
 git clone https://github.com/Isaac-Duarte/ShortUrl.git
 cd ShortUrl
 dotnet build
-dotnet run or bin/Debug/net5.0/ShortUrl
+bin/Debug/net5.0/ShortUrl
 ```
 
 ### Configuration
