@@ -6,7 +6,7 @@ The idea is to be able to copy urls and shorten them quickly through keyboard bi
 # Client Setup
 
 ### Linux
-This isn't a set tutorial for linux operating systems as this mainly depends on what desktop enviorment you are using. However, simply make the url-shortener.bash script executable and bind a key to it.
+This isn't a set tutorial for linux operating systems as this mainly depends on what desktop enviorment you are using. However, simply make the [bash](ShortUrl.sh) script executable and bind a key to it.
 
 **You will need xclip for this to work**  
 
