@@ -35,4 +35,4 @@ bin/Debug/net5.0/ShortUrl
 By default only SQLite will work, however if you want to use MySQL, Postgree, etc add the proper nuget packages. [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 
 # Credits
-fduarte-msft - Powershell
+fduarte-msft - Added all Windows support
