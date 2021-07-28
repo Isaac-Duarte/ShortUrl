@@ -14,7 +14,14 @@ This isn't a set tutorial for linux operating systems as this mainly depends on 
 [Go to the MacOS Wiki Page](https://github.com/Isaac-Duarte/ShortUrl/wiki/MacOS-Setup)
 
 ### Windows
-Currently no support for Windows
+Simply double click [Install.vbs](Install.vbs) and you'll be on your way! It'll create a shortcut on your desktop that is default binded to (CTRL+ALT+C). To change this simply open the propeties menu.
+
+```
+git clone https://github.com/Isaac-Duarte/ShortUrl.git
+cd ShortUrl
+cscipt Install.vbs
+```
+
 
 # API Setup
 In order to run this api you need to have [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0) installed. (Windows, MacOS, Linux)
