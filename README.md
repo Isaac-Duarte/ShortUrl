@@ -36,4 +36,5 @@ By default only SQLite will work, however if you want to use MySQL, Postgree, et
 
 # Credits
 [Fred Duarte](https://github.com/fduarte-msft) - Windows support
+
 [Isaac Duarte](https://github.com/Isaac-Duarte) - API, Linux & MacOS Support. 
