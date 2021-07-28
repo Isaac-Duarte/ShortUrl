@@ -1,5 +1,5 @@
 # ShortUrl
-A simple asp.net 5 application that allows a client to post to a domain returning a shortened url that redirects to the given url. The fozie.net endpoint is avalible for public use!**
+A simple asp.net 5 application that allows a client to post to a domain returning a shortened url that redirects to the given url. **The fozie.net endpoint is avalible for public use!**
 
 The idea is to be able to copy urls and shorten them quickly through keyboard bindings. The current bash script will set your clipboard content to the shorten url
 
