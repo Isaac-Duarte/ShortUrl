@@ -25,6 +25,7 @@ cscipt Install.vbs
 
 # API Setup
 *Hey [Postgres version](https://fozie.net/evQYP)*
+
 In order to run this api you need to have [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0) installed. (Windows, MacOS, Linux)
 
 ### Quick Start
